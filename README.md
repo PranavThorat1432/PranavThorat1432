@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavthorat1432&label=Profile%20views&color=0e75b6&style=flat" alt="pranavthorat1432" /> </p>
 
-- 🔭 I’m currently working on [E-Commerce Frontend Website](https://github.com/PranavThorat1432/E-commerce-Website)
+- 🔭 I’m currently working on [Zaptro E-commerce Frontend Website](https://github.com/PranavThorat1432/Zaptro-Ecommerce-FrontEnd-Website)
 
 - 🌱 I’m currently learning **ReactJS**
 
