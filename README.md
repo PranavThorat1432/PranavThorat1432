@@ -58,11 +58,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pranavthorat1432&show_icons=true&theme=radical&border_radius=10&count_private=true&include_all_commits=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavthorat1432&layout=compact&theme=radical&border_radius=10&langs_count=8" width="47%" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavthorat1432&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=10&ring=7FFF00&fire=FF4500&currStreakLabel=00FFFF&sideNums=FFD700&v=1" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavthorat1432&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=10&ring=7FFF00&fire=FF4500&currStreakLabel=00FFFF&sideNums=FFD700&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavthorat1432&layout=compact&theme=radical&langs_count=8&card_width=400&border_radius=10" width="48%" />
 </p>
 
 ---
