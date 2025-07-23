@@ -60,7 +60,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavthorat1432&show_icons=true&locale=en" alt="pranavthorat1432" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pranavthorat1432&theme=radical&border_radius=5.5)](https://git.io/streak-stats)
+[![GitHub Streak](https://pranav-thorat1432.vercel.app/?user=pranavthorat1432&theme=radical&border_radius=10)](https://git.io/streak-stats)
+
 
 
 
