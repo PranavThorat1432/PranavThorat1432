@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav Thorat</h1>
-<h3 align="center">Aspiring Full Stack Web Developer | ReactJS Enthusiast | Passionate about Clean UI/UX</h3>
+<h3 align="center">MERN Stack Developer in Training | ReactJS Lover | Focused on Crafting Elegant and Responsive Interfaces</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranavthorat1432&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,13 +10,11 @@
 
 ## 💫 About Me
 
-- 🔭 I’m currently working on:  
-  🎯 **[Zaptro - ReactJS E-commerce Frontend](https://github.com/PranavThorat1432/Zaptro-Ecommerce-FrontEnd-Website)**  
-  🎵 **Spotify Clone UI with ReactJS**
 
-- 🌱 I’m currently learning:  
-  ⚛️ **ReactJS (v19)**  
-  🧠 Planning to start **Backend Development** soon
+- 🔭 I’m currently working on:  
+  🎯 **Backend development in NodeJS**
+  
+- 🌱 I’ve completed **Frontend in ReactJS**, and now learning **Backend (Node.js, Express, MongoDB)** 
 
 - 👨‍🎓 I’m an **E&TC Engineering Student** from India  
 - 📬 Reach me at: **pranavthorat95@gmail.com**
@@ -38,18 +37,16 @@
 
 ---
 
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+## 🛠️ Languages and Tools I Work With:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -63,8 +60,6 @@
 [![GitHub Streak](https://pranav-thorat1432.vercel.app/?user=pranavthorat1432&theme=radical&border_radius=10)](https://git.io/streak-stats)
 
 
-
-
 ---
 
 ### 🏆 GitHub Trophies
@@ -72,15 +67,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pranavthorat1432&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
 </p>
-
----
-
-### ⌛ Weekly Coding Activity
-
-> *(Optional but cool — works only if you enable GitHub's Wakatime or use an external tracker)*
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
@@ -95,9 +81,11 @@
 
 ## 🧠 Current Focus
 
-- Improving my **ReactJS** & **Frontend** development skills  
-- Preparing to dive into **Node.js**, **Express**, and **MongoDB**  
-- Building more **UI Clones** and **FullStack Projects**
+- Strengthening my **Backend Development** skills with **Node.js**, **Express**, and **MongoDB**  
+- Enhancing my **ReactJS** frontend expertise with real projects  
+- Building and deploying **RESTful APIs** like the Contact-API  
+- Developing more **MERN stack applications** to become a proficient MERN developer  
+- Exploring **full-stack integration** and **deployment workflows**
 
 ---
 
