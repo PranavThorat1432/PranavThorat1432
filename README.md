@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav Thorat</h1>
-<h3 align="center">MERN Stack Developer in Training | ReactJS Lover | Focused on Crafting Elegant and Responsive Interfaces</h3>
+<h3 align="center">I’m a **MERN Stack Developer** and **Electronics & Telecommunication Engineering undergraduate (Class of 2027)** focused on building **clean, scalable full-stack web applications**.</h3>
+<h3 align="center">I work across the stack — from responsive React interfaces to RESTful APIs using Node.js, Express, and MongoDB. I care about **real application logic, clean structure, and continuous improvement**, not just UI demos.</h3>
 
 
 <p align="center">
@@ -8,18 +9,6 @@
 
 ---
 
-## 💫 About Me
-
-
-- 🔭 I’m currently working on:  
-  🎯 **Backend development in NodeJS**
-  
-- 🌱 I’ve completed **Frontend in ReactJS**, and now learning **Backend (Node.js, Express, MongoDB)** 
-
-- 👨‍🎓 I’m an **E&TC Engineering Student** from India  
-- 📬 Reach me at: **pranavthorat95@gmail.com**
-
----
 
 ## 🌐 Connect with Me
 
@@ -51,13 +40,29 @@
 
 ---
 
+## 🛠 Tech Stack
+
+**Frontend:** React.js, Vite, Tailwind CSS, HTML, CSS  
+**Backend:** Node.js, Express.js, MongoDB  
+**Languages:** JavaScript (ES6+), Python, C, C++  
+**Tools:** Git, GitHub, VS Code  
+**Core Areas:** Full-Stack Development, REST APIs, Authentication
+
+---
+
 ## 📊 GitHub Stats & Activity
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavthorat1432&show_icons=true&locale=en&layout=compact" alt="pranavthorat1432" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavthorat1432&show_icons=true&locale=en" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavthorat1432&show_icons=true&locale=en" alt="pranavthorat1432" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavthorat1432&layout=compact" />
+</p>
 
-[![GitHub Streak](https://pranav-thorat1432.vercel.app/?user=pranavthorat1432&theme=radical&border_radius=10)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://pranav-thorat1432.vercel.app/?user=pranavthorat1432&theme=radical&border_radius=10" />
+</p>
 
 
 ---
@@ -81,21 +86,18 @@
 
 ## 🧠 Current Focus
 
-- Strengthening my **Backend Development** skills with **Node.js**, **Express**, and **MongoDB**  
-- Enhancing my **ReactJS** frontend expertise with real projects  
-- Building and deploying **RESTful APIs** like the Contact-API  
-- Developing more **MERN stack applications** to become a proficient MERN developer  
-- Exploring **full-stack integration** and **deployment workflows**
+- Building **end-to-end MERN applications**
+- Strengthening **backend architecture & API design**
+- Improving **code quality and scalability**
+- Learning **deployment workflows**
+
 
 ---
 
-## 🏆 Achievements
-
-- ✅ Completed **Disney+ Hotstar UI Clone**
-- ✅ Built **Zaptro E-commerce Frontend**
-- ✅ Developed **Spotify UI Clone using ReactJS**
-- ✅ Completed **CodSoft Internship Projects**
-- ✅ Participated in **SIH 2024 - Smart Education Hackathon**
+## 🎯 Open To
+- MERN / Full-Stack **internships & entry-level roles**
+- Teams working on **real-world products**
+- Opportunities that value **learning and ownership**
 
 ---
 
