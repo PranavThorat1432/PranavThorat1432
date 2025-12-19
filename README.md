@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav Thorat</h1>
-<h3 align="center">I’m a **MERN Stack Developer** and **Electronics & Telecommunication Engineering undergraduate (Class of 2027)** focused on building **clean, scalable full-stack web applications**.</h3>
-<h3 align="center">I work across the stack — from responsive React interfaces to RESTful APIs using Node.js, Express, and MongoDB. I care about **real application logic, clean structure, and continuous improvement**, not just UI demos.</h3>
+<h3 align="center">I’m a MERN Stack Developer and Electronics & Telecommunication Engineering undergraduate (Class of 2027) focused on building clean, scalable full-stack web applications.</h3>
+<h3 align="center">I work across the stack — from responsive React interfaces to RESTful APIs using Node.js, Express, and MongoDB. I care about real application logic, clean structure, and continuous improvement, not just UI demos.</h3>
 
 
 <p align="center">
