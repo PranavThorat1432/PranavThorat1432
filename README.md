@@ -36,6 +36,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavthorat1432&theme=react-dark&bg_color=1A1B27&color=FFA500&line=00FFFF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
+---
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
