@@ -480,7 +480,7 @@
       <g transform="translate(86.2,0)">
         <g class="statblock" style="animation-delay:3.10s">
           <text x="0" y="-30" text-anchor="middle" font-size="20">📦</text>
-          <text x="0" y="4" text-anchor="middle" class="sb-val">8+</text>
+          <text x="0" y="4" text-anchor="middle" class="sb-val">66</text>
           <text x="0" y="26" text-anchor="middle" class="sb-label">Repos</text>
         </g>
       </g>
@@ -489,7 +489,7 @@
       <g transform="translate(258.8,0)">
         <g class="statblock" style="animation-delay:3.22s">
           <text x="0" y="-30" text-anchor="middle" font-size="20">💻</text>
-          <text x="0" y="4" text-anchor="middle" class="sb-val">500+</text>
+          <text x="0" y="4" text-anchor="middle" class="sb-val">4.7k</text>
           <text x="0" y="26" text-anchor="middle" class="sb-label">Commits</text>
         </g>
       </g>
@@ -498,7 +498,7 @@
       <g transform="translate(431.2,0)">
         <g class="statblock" style="animation-delay:3.34s">
           <text x="0" y="-30" text-anchor="middle" font-size="20">⭐</text>
-          <text x="0" y="4" text-anchor="middle" class="sb-val">50+</text>
+          <text x="0" y="4" text-anchor="middle" class="sb-val">1</text>
           <text x="0" y="26" text-anchor="middle" class="sb-label">Stars</text>
         </g>
       </g>
@@ -507,7 +507,7 @@
       <g transform="translate(603.8,0)">
         <g class="statblock" style="animation-delay:3.46s">
           <text x="0" y="-30" text-anchor="middle" font-size="20">👥</text>
-          <text x="0" y="4" text-anchor="middle" class="sb-val">25+</text>
+          <text x="0" y="4" text-anchor="middle" class="sb-val">4</text>
           <text x="0" y="26" text-anchor="middle" class="sb-label">Followers</text>
         </g>
       </g>

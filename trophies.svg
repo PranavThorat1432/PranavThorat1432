@@ -1,34 +1,29 @@
-<svg width="968" height="170" viewBox="0 0 968 170" xmlns="http://www.w3.org/2000/svg">
+<svg width="958" height="170" viewBox="0 0 958 170" xmlns="http://www.w3.org/2000/svg">
 <defs>
   <linearGradient id="trbg" x1="0%" y1="0%" x2="100%" y2="100%">
-    <stop offset="0%" stop-color="#1d0e34"/>
-    <stop offset="100%" stop-color="#2c1148"/>
+    <stop offset="0%" stop-color="#1d0e34"/><stop offset="100%" stop-color="#2c1148"/>
   </linearGradient>
   <linearGradient id="trshine" x1="0%" y1="0%" x2="100%" y2="0%">
     <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
     <stop offset="50%" stop-color="#ffffff" stop-opacity="0.18"/>
     <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
-  <clipPath id="frameTr"><rect width="968" height="170" rx="20"/></clipPath>
+  <clipPath id="frameTr"><rect width="958" height="170" rx="20"/></clipPath>
   <clipPath id="cellClip0"><rect width="148" height="150" rx="14"/></clipPath><clipPath id="cellClip1"><rect width="148" height="150" rx="14"/></clipPath><clipPath id="cellClip2"><rect width="148" height="150" rx="14"/></clipPath><clipPath id="cellClip3"><rect width="148" height="150" rx="14"/></clipPath><clipPath id="cellClip4"><rect width="148" height="150" rx="14"/></clipPath><clipPath id="cellClip5"><rect width="148" height="150" rx="14"/></clipPath>
 </defs>
 <style>
   .tcell-bg { fill:url(#trbg); }
-
-  .tcell { opacity:0; transform-origin: 74.0px 75.0px; animation: popCell 0.55s cubic-bezier(.2,1.3,.4,1) forwards; }
+  .tcell { opacity:0; transform-origin:74.0px 75.0px; animation: popCell 0.55s cubic-bezier(.2,1.3,.4,1) forwards; }
   @keyframes popCell {
     0% { opacity:0; transform: scale(0.7) translateY(14px); }
     70% { opacity:1; transform: scale(1.04) translateY(-2px); }
     100% { opacity:1; transform: scale(1) translateY(0); }
   }
-
   .rank-letter { font-family:'Segoe UI',Arial,sans-serif; font-size:22px; font-weight:800; }
   .tname { font-family:'Segoe UI',Arial,sans-serif; font-size:14px; font-weight:700; fill:#ffffff; }
   .tsub { font-family:'Segoe UI',Arial,sans-serif; font-size:11px; fill:#b79fdb; }
-
   .tbar { animation: growBar 0.9s cubic-bezier(.2,.8,.2,1) forwards; }
   @keyframes growBar { from { width:0; } to { width: var(--bw); } }
-
   .shine { fill:url(#trshine); animation: trSweep 3.4s ease-in-out infinite; }
   @keyframes trSweep {
     0% { transform: rotate(18deg) translateX(-90px); }
@@ -37,94 +32,94 @@
   }
 </style>
 <g clip-path="url(#frameTr)">
-  <rect width="968" height="170" fill="url(#trbg)"/>
-  <rect x="0.5" y="0.5" width="967" height="169" rx="20" fill="none" stroke="#6d3fae55" stroke-width="1.5"/>
+  <rect width="958" height="170" fill="url(#trbg)"/>
+  <rect x="0.5" y="0.5" width="957" height="169" rx="20" fill="none" stroke="#6d3fae55" stroke-width="1.5"/>
 
     <g transform="translate(10,10)">
       <g class="tcell" style="animation-delay:0.15s">
         <rect width="148" height="150" rx="14" class="tcell-bg"/>
-        <rect width="148" height="150" rx="14" fill="none" stroke="#ff5fc755" stroke-width="1.3"/>
-        <text x="16" y="30" font-size="20">🌀</text>
-        <text x="134" y="28" text-anchor="end" class="rank-letter" fill="#ff5fc7">SSS</text>
-        <text x="16" y="104" class="tname">Otaku Dev</text>
-        <text x="16" y="122" class="tsub">Full-Stack Sites x5</text>
-        <rect x="16" y="134" width="116" height="4" rx="2" fill="#ff5fc733"/>
-        <rect x="16" y="134" width="0" height="4" rx="2" fill="#ff5fc7" class="tbar" style="--bw:116px; animation-delay:0.50s"/>
+        <rect width="148" height="150" rx="14" fill="none" stroke="#ffd47955" stroke-width="1.3"/>
+        <text x="16" y="30" font-size="20">⭐</text>
+        <text x="134" y="28" text-anchor="end" class="rank-letter" fill="#ffd479">B</text>
+        <text x="16" y="104" class="tname">Stargazer</text>
+        <text x="16" y="122" class="tsub">Stars 1</text>
+        <rect x="16" y="134" width="116" height="4" rx="2" fill="#ffd47933"/>
+        <rect x="16" y="134" width="0" height="4" rx="2" fill="#ffd479" class="tbar" style="--bw:116px; animation-delay:0.50s"/>
         <g clip-path="url(#cellClip0)">
           <rect x="-70" y="0" width="135" height="150" class="shine" transform="rotate(18)"/>
         </g>
       </g>
     </g>
-    <g transform="translate(170,10)">
+    <g transform="translate(168,10)">
       <g class="tcell" style="animation-delay:0.27s">
         <rect width="148" height="150" rx="14" class="tcell-bg"/>
-        <rect width="148" height="150" rx="14" fill="none" stroke="#ffd47955" stroke-width="1.3"/>
-        <text x="16" y="30" font-size="20">★</text>
-        <text x="134" y="28" text-anchor="end" class="rank-letter" fill="#ffd479">S</text>
-        <text x="16" y="104" class="tname">Starstruck</text>
-        <text x="16" y="122" class="tsub">Stars Earned 50+</text>
-        <rect x="16" y="134" width="116" height="4" rx="2" fill="#ffd47933"/>
-        <rect x="16" y="134" width="0" height="4" rx="2" fill="#ffd479" class="tbar" style="--bw:116px; animation-delay:0.62s"/>
+        <rect width="148" height="150" rx="14" fill="none" stroke="#7fe3ff55" stroke-width="1.3"/>
+        <text x="16" y="30" font-size="20">💻</text>
+        <text x="134" y="28" text-anchor="end" class="rank-letter" fill="#7fe3ff">SSS</text>
+        <text x="16" y="104" class="tname">Committer</text>
+        <text x="16" y="122" class="tsub">Commits 4.7k</text>
+        <rect x="16" y="134" width="116" height="4" rx="2" fill="#7fe3ff33"/>
+        <rect x="16" y="134" width="0" height="4" rx="2" fill="#7fe3ff" class="tbar" style="--bw:116px; animation-delay:0.62s"/>
         <g clip-path="url(#cellClip1)">
           <rect x="-70" y="0" width="135" height="150" class="shine" transform="rotate(18)"/>
         </g>
       </g>
     </g>
-    <g transform="translate(330,10)">
+    <g transform="translate(326,10)">
       <g class="tcell" style="animation-delay:0.39s">
         <rect width="148" height="150" rx="14" class="tcell-bg"/>
-        <rect width="148" height="150" rx="14" fill="none" stroke="#9b4bff55" stroke-width="1.3"/>
-        <text x="16" y="30" font-size="20">⭐</text>
-        <text x="134" y="28" text-anchor="end" class="rank-letter" fill="#9b4bff">A</text>
-        <text x="16" y="104" class="tname">Stargazer</text>
-        <text x="16" y="122" class="tsub">Repo Stars</text>
-        <rect x="16" y="134" width="116" height="4" rx="2" fill="#9b4bff33"/>
-        <rect x="16" y="134" width="0" height="4" rx="2" fill="#9b4bff" class="tbar" style="--bw:116px; animation-delay:0.74s"/>
+        <rect width="148" height="150" rx="14" fill="none" stroke="#ff9be055" stroke-width="1.3"/>
+        <text x="16" y="30" font-size="20">♥</text>
+        <text x="134" y="28" text-anchor="end" class="rank-letter" fill="#ff9be0">B</text>
+        <text x="16" y="104" class="tname">Popular</text>
+        <text x="16" y="122" class="tsub">Followers 4</text>
+        <rect x="16" y="134" width="116" height="4" rx="2" fill="#ff9be033"/>
+        <rect x="16" y="134" width="0" height="4" rx="2" fill="#ff9be0" class="tbar" style="--bw:116px; animation-delay:0.74s"/>
         <g clip-path="url(#cellClip2)">
           <rect x="-70" y="0" width="135" height="150" class="shine" transform="rotate(18)"/>
         </g>
       </g>
     </g>
-    <g transform="translate(490,10)">
+    <g transform="translate(484,10)">
       <g class="tcell" style="animation-delay:0.51s">
         <rect width="148" height="150" rx="14" class="tcell-bg"/>
-        <rect width="148" height="150" rx="14" fill="none" stroke="#ff9be055" stroke-width="1.3"/>
-        <text x="16" y="30" font-size="20">♥</text>
-        <text x="134" y="28" text-anchor="end" class="rank-letter" fill="#ff9be0">A</text>
-        <text x="16" y="104" class="tname">Rising Star</text>
-        <text x="16" y="122" class="tsub">Followers 25+</text>
-        <rect x="16" y="134" width="116" height="4" rx="2" fill="#ff9be033"/>
-        <rect x="16" y="134" width="0" height="4" rx="2" fill="#ff9be0" class="tbar" style="--bw:116px; animation-delay:0.86s"/>
+        <rect width="148" height="150" rx="14" fill="none" stroke="#9b4bff55" stroke-width="1.3"/>
+        <text x="16" y="30" font-size="20">🔀</text>
+        <text x="134" y="28" text-anchor="end" class="rank-letter" fill="#9b4bff">B</text>
+        <text x="16" y="104" class="tname">Merger</text>
+        <text x="16" y="122" class="tsub">PRs 0</text>
+        <rect x="16" y="134" width="116" height="4" rx="2" fill="#9b4bff33"/>
+        <rect x="16" y="134" width="0" height="4" rx="2" fill="#9b4bff" class="tbar" style="--bw:116px; animation-delay:0.86s"/>
         <g clip-path="url(#cellClip3)">
           <rect x="-70" y="0" width="135" height="150" class="shine" transform="rotate(18)"/>
         </g>
       </g>
     </g>
-    <g transform="translate(650,10)">
+    <g transform="translate(642,10)">
       <g class="tcell" style="animation-delay:0.63s">
         <rect width="148" height="150" rx="14" class="tcell-bg"/>
-        <rect width="148" height="150" rx="14" fill="none" stroke="#7fe3ff55" stroke-width="1.3"/>
-        <text x="16" y="30" font-size="20">💻</text>
-        <text x="134" y="28" text-anchor="end" class="rank-letter" fill="#7fe3ff">A</text>
-        <text x="16" y="104" class="tname">Committer</text>
-        <text x="16" y="122" class="tsub">Commits 500+</text>
-        <rect x="16" y="134" width="116" height="4" rx="2" fill="#7fe3ff33"/>
-        <rect x="16" y="134" width="0" height="4" rx="2" fill="#7fe3ff" class="tbar" style="--bw:116px; animation-delay:0.98s"/>
+        <rect width="148" height="150" rx="14" fill="none" stroke="#3ddc8455" stroke-width="1.3"/>
+        <text x="16" y="30" font-size="20">📦</text>
+        <text x="134" y="28" text-anchor="end" class="rank-letter" fill="#3ddc84">SSS</text>
+        <text x="16" y="104" class="tname">Creator</text>
+        <text x="16" y="122" class="tsub">Repos 66</text>
+        <rect x="16" y="134" width="116" height="4" rx="2" fill="#3ddc8433"/>
+        <rect x="16" y="134" width="0" height="4" rx="2" fill="#3ddc84" class="tbar" style="--bw:116px; animation-delay:0.98s"/>
         <g clip-path="url(#cellClip4)">
           <rect x="-70" y="0" width="135" height="150" class="shine" transform="rotate(18)"/>
         </g>
       </g>
     </g>
-    <g transform="translate(810,10)">
+    <g transform="translate(800,10)">
       <g class="tcell" style="animation-delay:0.75s">
         <rect width="148" height="150" rx="14" class="tcell-bg"/>
-        <rect width="148" height="150" rx="14" fill="none" stroke="#3ddc8455" stroke-width="1.3"/>
-        <text x="16" y="30" font-size="20">📦</text>
-        <text x="134" y="28" text-anchor="end" class="rank-letter" fill="#3ddc84">B</text>
-        <text x="16" y="104" class="tname">Creator</text>
-        <text x="16" y="122" class="tsub">Repos 8+</text>
-        <rect x="16" y="134" width="116" height="4" rx="2" fill="#3ddc8433"/>
-        <rect x="16" y="134" width="0" height="4" rx="2" fill="#3ddc84" class="tbar" style="--bw:116px; animation-delay:1.10s"/>
+        <rect width="148" height="150" rx="14" fill="none" stroke="#ff5fc755" stroke-width="1.3"/>
+        <text x="16" y="30" font-size="20">🐛</text>
+        <text x="134" y="28" text-anchor="end" class="rank-letter" fill="#ff5fc7">B</text>
+        <text x="16" y="104" class="tname">Debugger</text>
+        <text x="16" y="122" class="tsub">Issues 0</text>
+        <rect x="16" y="134" width="116" height="4" rx="2" fill="#ff5fc733"/>
+        <rect x="16" y="134" width="0" height="4" rx="2" fill="#ff5fc7" class="tbar" style="--bw:116px; animation-delay:1.10s"/>
         <g clip-path="url(#cellClip5)">
           <rect x="-70" y="0" width="135" height="150" class="shine" transform="rotate(18)"/>
         </g>
