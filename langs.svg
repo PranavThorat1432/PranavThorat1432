@@ -1,0 +1,70 @@
+<svg width="420" height="300" viewBox="0 0 420 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="lbg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#170a29"/>
+    <stop offset="100%" stop-color="#2c1148"/>
+  </linearGradient>
+  <clipPath id="frameL"><rect width="420" height="300" rx="20"/></clipPath>
+  <clipPath id="barClip"><rect width="372" height="14" rx="7"/></clipPath>
+</defs>
+<style>
+  .title { font-family:'Segoe UI',Arial,sans-serif; font-size:15px; font-weight:700; fill:#ff9be0; }
+  .lname { font-family:'Segoe UI',Arial,sans-serif; font-size:13px; fill:#e6d9f7; }
+  .lpct { font-family:'Segoe UI',Arial,sans-serif; font-size:12.5px; font-weight:700; fill:#ffffff; }
+  .bar-track { fill:#3a1c58; }
+
+  .seg { animation: growSeg 0.9s cubic-bezier(.2,.8,.2,1) forwards; }
+  @keyframes growSeg { from { width:0; } to { width: var(--sw); } }
+
+  .lg-row { opacity:0; transform-origin: 0px 0px; animation: legFade 0.5s ease forwards; }
+  @keyframes legFade { from { opacity:0; transform: translateX(-8px); } to { opacity:1; transform: translateX(0); } }
+</style>
+<g clip-path="url(#frameL)">
+  <rect width="420" height="300" fill="url(#lbg)"/>
+  <rect x="0.5" y="0.5" width="419" height="299" rx="20" fill="none" stroke="#6d3fae55" stroke-width="1.5"/>
+  <text x="24" y="30" class="title">Top Languages</text>
+
+  <g transform="translate(24,56)">
+    <rect width="372" height="14" rx="7" class="bar-track"/>
+    <g clip-path="url(#barClip)">
+
+    <rect x="0.0" y="0" width="0" height="14" fill="#e34c26" class="seg" style="--sw:305.0px; animation-delay:0.15s"/>
+    <rect x="305.0" y="0" width="0" height="14" fill="#3178c6" class="seg" style="--sw:44.6px; animation-delay:0.30s"/>
+    <rect x="349.7" y="0" width="0" height="14" fill="#563d7c" class="seg" style="--sw:14.9px; animation-delay:0.45s"/>
+    <rect x="364.6" y="0" width="0" height="14" fill="#f1e05a" class="seg" style="--sw:7.4px; animation-delay:0.60s"/>
+    </g>
+  </g>
+
+  <g transform="translate(24,100)">
+
+    <g transform="translate(0,0)">
+      <g class="lg-row" style="animation-delay:0.60s">
+        <circle cx="6" cy="0" r="5" fill="#e34c26"/>
+        <text x="20" y="4" class="lname">HTML</text>
+        <text x="372" y="4" text-anchor="end" class="lpct">82%</text>
+      </g>
+    </g>
+    <g transform="translate(0,32)">
+      <g class="lg-row" style="animation-delay:0.75s">
+        <circle cx="6" cy="0" r="5" fill="#3178c6"/>
+        <text x="20" y="4" class="lname">TypeScript</text>
+        <text x="372" y="4" text-anchor="end" class="lpct">12%</text>
+      </g>
+    </g>
+    <g transform="translate(0,64)">
+      <g class="lg-row" style="animation-delay:0.90s">
+        <circle cx="6" cy="0" r="5" fill="#563d7c"/>
+        <text x="20" y="4" class="lname">CSS</text>
+        <text x="372" y="4" text-anchor="end" class="lpct">4%</text>
+      </g>
+    </g>
+    <g transform="translate(0,96)">
+      <g class="lg-row" style="animation-delay:1.05s">
+        <circle cx="6" cy="0" r="5" fill="#f1e05a"/>
+        <text x="20" y="4" class="lname">JavaScript</text>
+        <text x="372" y="4" text-anchor="end" class="lpct">2%</text>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>

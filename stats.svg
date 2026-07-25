@@ -1,0 +1,96 @@
+<svg width="480" height="260" viewBox="0 0 480 260" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="sbg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#170a29"/>
+    <stop offset="100%" stop-color="#2c1148"/>
+  </linearGradient>
+  <linearGradient id="sring" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#ff5fc7"/>
+    <stop offset="100%" stop-color="#9b4bff"/>
+  </linearGradient>
+  <linearGradient id="sbar" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#ff5fc7"/>
+    <stop offset="100%" stop-color="#9b4bff"/>
+  </linearGradient>
+  <clipPath id="frameS"><rect width="480" height="260" rx="20"/></clipPath>
+</defs>
+<style>
+  .card-bg { fill:url(#sbg); }
+  .row { opacity:0; transform-origin: 0px 0px; animation: slideIn 0.6s ease forwards; }
+  @keyframes slideIn { from { opacity:0; transform: translateX(24px); } to { opacity:1; transform: translateX(0); } }
+  .row-icon { font-size:11px; fill:#ff9be0; }
+  .row-label { font-family:'Segoe UI',Arial,sans-serif; font-size:13px; fill:#c9b3e8; }
+  .row-val { font-family:'Segoe UI',Arial,sans-serif; font-size:13px; font-weight:700; fill:#ffffff; }
+  .row-track { fill:#3a1c58; }
+  .row-fill { fill:url(#sbar); width:0; animation: growW 1s cubic-bezier(.2,.8,.2,1) forwards; }
+  @keyframes growW { from { width:0; } }
+  .ring-track { fill:none; stroke:#3a1c58; stroke-width:10; }
+  .ring-fill { fill:none; stroke:url(#sring); stroke-width:10; stroke-linecap:round;
+    stroke-dasharray:389.6; stroke-dashoffset:389.6;
+    animation: ringGrow 1.6s cubic-bezier(.2,.8,.2,1) 0.2s forwards; transform:rotate(-90deg); transform-origin:105px 130px; }
+  @keyframes ringGrow { to { stroke-dashoffset:70.1; } }
+  .rank-text { font-family:'Segoe UI',Arial,sans-serif; font-size:34px; font-weight:800; fill:#ffffff; opacity:0;
+    animation: fadeIn 0.6s ease 1.4s forwards; }
+  .rank-sub { font-family:'Segoe UI',Arial,sans-serif; font-size:11px; fill:#c9b3e8; opacity:0;
+    animation: fadeIn 0.6s ease 1.6s forwards; }
+  @keyframes fadeIn { to { opacity:1; } }
+  .title { font-family:'Segoe UI',Arial,sans-serif; font-size:15px; font-weight:700; fill:#ff9be0; }
+</style>
+<g clip-path="url(#frameS)">
+  <rect width="480" height="260" class="card-bg"/>
+  <rect x="0.5" y="0.5" width="479" height="259" rx="20" fill="none" stroke="#6d3fae55" stroke-width="1.5"/>
+  <text x="24" y="30" class="title">Pranav's GitHub Stats</text>
+  <g transform="translate(0,10)">
+    <circle cx="105" cy="130" r="62" class="ring-track"/>
+    <circle cx="105" cy="130" r="62" class="ring-fill"/>
+    <text x="105" y="122" text-anchor="middle" class="rank-text">A+</text>
+    <text x="105" y="145" text-anchor="middle" class="rank-sub">RANK</text>
+  </g>
+
+    <g transform="translate(210,28)">
+      <g class="row" style="animation-delay:0.30s">
+        <text x="0" y="0" class="row-icon">&#9733;</text>
+        <text x="20" y="0" class="row-label">Total Stars:</text>
+        <text x="230" y="0" text-anchor="end" class="row-val">128</text>
+        <rect x="0" y="8" width="230" height="5" rx="2.5" class="row-track"/>
+        <rect x="0" y="8" width="126.5" height="5" rx="2.5" class="row-fill" style="animation-delay:0.60s"/>
+      </g>
+    </g>
+    <g transform="translate(210,62)">
+      <g class="row" style="animation-delay:0.45s">
+        <text x="0" y="0" class="row-icon">&#9733;</text>
+        <text x="20" y="0" class="row-label">Total Commits:</text>
+        <text x="230" y="0" text-anchor="end" class="row-val">1,940</text>
+        <rect x="0" y="8" width="230" height="5" rx="2.5" class="row-track"/>
+        <rect x="0" y="8" width="197.8" height="5" rx="2.5" class="row-fill" style="animation-delay:0.75s"/>
+      </g>
+    </g>
+    <g transform="translate(210,96)">
+      <g class="row" style="animation-delay:0.60s">
+        <text x="0" y="0" class="row-icon">&#9733;</text>
+        <text x="20" y="0" class="row-label">Total PRs:</text>
+        <text x="230" y="0" text-anchor="end" class="row-val">37</text>
+        <rect x="0" y="8" width="230" height="5" rx="2.5" class="row-track"/>
+        <rect x="0" y="8" width="92.0" height="5" rx="2.5" class="row-fill" style="animation-delay:0.90s"/>
+      </g>
+    </g>
+    <g transform="translate(210,130)">
+      <g class="row" style="animation-delay:0.75s">
+        <text x="0" y="0" class="row-icon">&#9733;</text>
+        <text x="20" y="0" class="row-label">Total Issues:</text>
+        <text x="230" y="0" text-anchor="end" class="row-val">12</text>
+        <rect x="0" y="8" width="230" height="5" rx="2.5" class="row-track"/>
+        <rect x="0" y="8" width="50.6" height="5" rx="2.5" class="row-fill" style="animation-delay:1.05s"/>
+      </g>
+    </g>
+    <g transform="translate(210,164)">
+      <g class="row" style="animation-delay:0.90s">
+        <text x="0" y="0" class="row-icon">&#9733;</text>
+        <text x="20" y="0" class="row-label">Contributed To:</text>
+        <text x="230" y="0" text-anchor="end" class="row-val">9</text>
+        <rect x="0" y="8" width="230" height="5" rx="2.5" class="row-track"/>
+        <rect x="0" y="8" width="69.0" height="5" rx="2.5" class="row-fill" style="animation-delay:1.20s"/>
+      </g>
+    </g>
+</g>
+</svg>
