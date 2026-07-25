@@ -46,15 +46,19 @@
 ## 📊 GitHub Stats
 
 
-
 <div align="center">
-<img src="./stats.svg?v=1" alt="GitHub stats" width="48%">
-<img src="./langs.svg?v=1" alt="Most used languages" width="42%">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=PranavThorat1432&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=PranavThorat1432&theme=dark&hide_border=false" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PranavThorat1432&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages" />
 </div>
 
-<div align="center">
-<img src="./trophies.svg?v=1" alt="GitHub trophies" width="98%">
-</div>
+<br>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=PranavThorat1432&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 <br>
 
@@ -72,11 +76,12 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| **GenWeb.ai — AI Website Generator** | Enterprise-grade SaaS Platform for AI-Driven Web Application Generation, Real-Time Monaco Code Editing, Instant Cloud Deployment, and Automated Token Economics. | MERN · Stripe · OpenRouter · Firebase |
+| **AI Powered YouTube Clone** | A comprehensive YouTube-like streaming application built with the MERN stack, featuring AI-powered search, real-time interactions, and complete content management system. | MERN · Firebase · Nodemailer |
 | **MedRouteV2** | Real-time hospital bed availability platform built for Godavari Hackathon 1.0 — trilingual UI, Leaflet maps, JWT-protected admin panel. | MERN · Leaflet.js · JWT |
-| **Arts by Lina** | Full-stack Mehndi artist business site with an admin dashboard, media pipeline, and a gallery modal with keyboard navigation. | React · MongoDB · Cloudinary |
-| **Campus Chatbot** | Assignment project pairing a React front end with a generative AI backend, shipped with a full project report. | Vite · React · Tailwind · Gemini API |
+| **Vybe** | Vybe is a next-generation social media platform engineered for real-time interaction, storytelling, and community-driven content, built using the latest MERN technologies. | MERN · Socket.io · Cloudinary |
 | **Smart Parking System** | Arduino-based parking automation with toggleable RFID, averaged ultrasonic sensing, and servo gate control. | Arduino · C++ · I2C LCD |
-| **College Attendance System** | Solo mini-hackathon build with live attendance percentages, a recovery calculator, and role-based dashboards. | MERN · JWT · Nodemailer |
+
 
 </div>
 
