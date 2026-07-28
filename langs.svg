@@ -23,25 +23,25 @@
   <g transform="translate(24,56)">
     <rect width="372" height="14" rx="7" class="bar-track"/>
     <g clip-path="url(#barClip)">
-    <rect x="0.0" y="0" width="0" height="14" fill="#f1e05a" class="seg" style="--sw:302.1px; animation-delay:0.15s"/>
-    <rect x="302.1" y="0" width="0" height="14" fill="#e34c26" class="seg" style="--sw:40.5px; animation-delay:0.30s"/>
-    <rect x="342.6" y="0" width="0" height="14" fill="#563d7c" class="seg" style="--sw:24.9px; animation-delay:0.45s"/>
-    <rect x="367.5" y="0" width="0" height="14" fill="#3572A5" class="seg" style="--sw:2.6px; animation-delay:0.60s"/>
-    <rect x="370.1" y="0" width="0" height="14" fill="#f34b7d" class="seg" style="--sw:1.9px; animation-delay:0.75s"/></g>
+    <rect x="0.0" y="0" width="0" height="14" fill="#f1e05a" class="seg" style="--sw:301.3px; animation-delay:0.15s"/>
+    <rect x="301.3" y="0" width="0" height="14" fill="#e34c26" class="seg" style="--sw:40.2px; animation-delay:0.30s"/>
+    <rect x="341.5" y="0" width="0" height="14" fill="#563d7c" class="seg" style="--sw:24.9px; animation-delay:0.45s"/>
+    <rect x="366.4" y="0" width="0" height="14" fill="#f34b7d" class="seg" style="--sw:3.0px; animation-delay:0.60s"/>
+    <rect x="369.4" y="0" width="0" height="14" fill="#3572A5" class="seg" style="--sw:2.6px; animation-delay:0.75s"/></g>
   </g>
   <g transform="translate(24,100)">
     <g transform="translate(0,0)">
       <g class="lg-row" style="animation-delay:0.60s">
         <circle cx="6" cy="0" r="5" fill="#f1e05a"/>
         <text x="20" y="4" class="lname">JavaScript</text>
-        <text x="372" y="4" text-anchor="end" class="lpct">81.2%</text>
+        <text x="372" y="4" text-anchor="end" class="lpct">81%</text>
       </g>
     </g>
     <g transform="translate(0,32)">
       <g class="lg-row" style="animation-delay:0.75s">
         <circle cx="6" cy="0" r="5" fill="#e34c26"/>
         <text x="20" y="4" class="lname">HTML</text>
-        <text x="372" y="4" text-anchor="end" class="lpct">10.9%</text>
+        <text x="372" y="4" text-anchor="end" class="lpct">10.8%</text>
       </g>
     </g>
     <g transform="translate(0,64)">
@@ -53,16 +53,16 @@
     </g>
     <g transform="translate(0,96)">
       <g class="lg-row" style="animation-delay:1.05s">
-        <circle cx="6" cy="0" r="5" fill="#3572A5"/>
-        <text x="20" y="4" class="lname">Python</text>
-        <text x="372" y="4" text-anchor="end" class="lpct">0.7%</text>
+        <circle cx="6" cy="0" r="5" fill="#f34b7d"/>
+        <text x="20" y="4" class="lname">C++</text>
+        <text x="372" y="4" text-anchor="end" class="lpct">0.8%</text>
       </g>
     </g>
     <g transform="translate(0,128)">
       <g class="lg-row" style="animation-delay:1.20s">
-        <circle cx="6" cy="0" r="5" fill="#f34b7d"/>
-        <text x="20" y="4" class="lname">C++</text>
-        <text x="372" y="4" text-anchor="end" class="lpct">0.5%</text>
+        <circle cx="6" cy="0" r="5" fill="#3572A5"/>
+        <text x="20" y="4" class="lname">Python</text>
+        <text x="372" y="4" text-anchor="end" class="lpct">0.7%</text>
       </g>
     </g></g>
 </g>
