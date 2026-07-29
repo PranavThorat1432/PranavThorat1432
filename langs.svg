@@ -23,9 +23,9 @@
   <g transform="translate(24,56)">
     <rect width="372" height="14" rx="7" class="bar-track"/>
     <g clip-path="url(#barClip)">
-    <rect x="0.0" y="0" width="0" height="14" fill="#f1e05a" class="seg" style="--sw:301.3px; animation-delay:0.15s"/>
-    <rect x="301.3" y="0" width="0" height="14" fill="#e34c26" class="seg" style="--sw:40.2px; animation-delay:0.30s"/>
-    <rect x="341.5" y="0" width="0" height="14" fill="#563d7c" class="seg" style="--sw:24.9px; animation-delay:0.45s"/>
+    <rect x="0.0" y="0" width="0" height="14" fill="#f1e05a" class="seg" style="--sw:301.7px; animation-delay:0.15s"/>
+    <rect x="301.7" y="0" width="0" height="14" fill="#e34c26" class="seg" style="--sw:40.2px; animation-delay:0.30s"/>
+    <rect x="341.9" y="0" width="0" height="14" fill="#563d7c" class="seg" style="--sw:24.6px; animation-delay:0.45s"/>
     <rect x="366.4" y="0" width="0" height="14" fill="#f34b7d" class="seg" style="--sw:3.0px; animation-delay:0.60s"/>
     <rect x="369.4" y="0" width="0" height="14" fill="#3572A5" class="seg" style="--sw:2.6px; animation-delay:0.75s"/></g>
   </g>
@@ -34,7 +34,7 @@
       <g class="lg-row" style="animation-delay:0.60s">
         <circle cx="6" cy="0" r="5" fill="#f1e05a"/>
         <text x="20" y="4" class="lname">JavaScript</text>
-        <text x="372" y="4" text-anchor="end" class="lpct">81%</text>
+        <text x="372" y="4" text-anchor="end" class="lpct">81.1%</text>
       </g>
     </g>
     <g transform="translate(0,32)">
@@ -48,7 +48,7 @@
       <g class="lg-row" style="animation-delay:0.90s">
         <circle cx="6" cy="0" r="5" fill="#563d7c"/>
         <text x="20" y="4" class="lname">CSS</text>
-        <text x="372" y="4" text-anchor="end" class="lpct">6.7%</text>
+        <text x="372" y="4" text-anchor="end" class="lpct">6.6%</text>
       </g>
     </g>
     <g transform="translate(0,96)">
