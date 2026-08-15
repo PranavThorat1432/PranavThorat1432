@@ -23,32 +23,32 @@
   <g transform="translate(24,56)">
     <rect width="372" height="14" rx="7" class="bar-track"/>
     <g clip-path="url(#barClip)">
-    <rect x="0.0" y="0" width="0" height="14" fill="#f1e05a" class="seg" style="--sw:302.4px; animation-delay:0.15s"/>
-    <rect x="302.4" y="0" width="0" height="14" fill="#e34c26" class="seg" style="--sw:39.8px; animation-delay:0.30s"/>
-    <rect x="342.2" y="0" width="0" height="14" fill="#563d7c" class="seg" style="--sw:24.6px; animation-delay:0.45s"/>
-    <rect x="366.8" y="0" width="0" height="14" fill="#f34b7d" class="seg" style="--sw:3.0px; animation-delay:0.60s"/>
-    <rect x="369.8" y="0" width="0" height="14" fill="#3572A5" class="seg" style="--sw:2.6px; animation-delay:0.75s"/></g>
+    <rect x="0.0" y="0" width="0" height="14" fill="#f1e05a" class="seg" style="--sw:302.8px; animation-delay:0.15s"/>
+    <rect x="302.8" y="0" width="0" height="14" fill="#e34c26" class="seg" style="--sw:39.4px; animation-delay:0.30s"/>
+    <rect x="342.2" y="0" width="0" height="14" fill="#563d7c" class="seg" style="--sw:24.2px; animation-delay:0.45s"/>
+    <rect x="366.4" y="0" width="0" height="14" fill="#f34b7d" class="seg" style="--sw:3.0px; animation-delay:0.60s"/>
+    <rect x="369.4" y="0" width="0" height="14" fill="#3572A5" class="seg" style="--sw:2.6px; animation-delay:0.75s"/></g>
   </g>
   <g transform="translate(24,100)">
     <g transform="translate(0,0)">
       <g class="lg-row" style="animation-delay:0.60s">
         <circle cx="6" cy="0" r="5" fill="#f1e05a"/>
         <text x="20" y="4" class="lname">JavaScript</text>
-        <text x="372" y="4" text-anchor="end" class="lpct">81.3%</text>
+        <text x="372" y="4" text-anchor="end" class="lpct">81.4%</text>
       </g>
     </g>
     <g transform="translate(0,32)">
       <g class="lg-row" style="animation-delay:0.75s">
         <circle cx="6" cy="0" r="5" fill="#e34c26"/>
         <text x="20" y="4" class="lname">HTML</text>
-        <text x="372" y="4" text-anchor="end" class="lpct">10.7%</text>
+        <text x="372" y="4" text-anchor="end" class="lpct">10.6%</text>
       </g>
     </g>
     <g transform="translate(0,64)">
       <g class="lg-row" style="animation-delay:0.90s">
         <circle cx="6" cy="0" r="5" fill="#563d7c"/>
         <text x="20" y="4" class="lname">CSS</text>
-        <text x="372" y="4" text-anchor="end" class="lpct">6.6%</text>
+        <text x="372" y="4" text-anchor="end" class="lpct">6.5%</text>
       </g>
     </g>
     <g transform="translate(0,96)">
