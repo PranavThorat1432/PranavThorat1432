@@ -66,8 +66,6 @@ const Pranav = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2" alt="" />
 
-<br>
-
 <!-- CURRENT FOCUS SECTION -->
 <h2 align="center">
   <img src="https://api.iconify.design/fa6-solid/crosshairs.svg?color=%2339D353" width="24" alt="Focus" />
@@ -135,11 +133,11 @@ const Pranav = {
     </td>
     <td width="30%" valign="top" align="center">
       <br>
-      <a href="https://github.com/PranavThorat1432" target="_blank">
+      <a href="https://github.com/PranavThorat1432/GenWeb.ai-an-AI-Website-Generator" target="_blank">
         <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
       </a>
       <br><br>
-      <a href="https://github.com/PranavThorat1432" target="_blank">
+      <a href="https://genweb-ai-6w1p.onrender.com" target="_blank">
         <img src="https://img.shields.io/badge/Live_Demo-FF5FC7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
       </a>
       <br><br>
@@ -176,11 +174,11 @@ const Pranav = {
     </td>
     <td width="30%" valign="top" align="center">
       <br>
-      <a href="https://github.com/PranavThorat1432" target="_blank">
+      <a href="https://github.com/PranavThorat1432/AI-Powered-Full-Stack-YouTube-Clone" target="_blank">
         <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
       </a>
       <br><br>
-      <a href="https://github.com/PranavThorat1432" target="_blank">
+      <a href="https://youtube-pyta.onrender.com" target="_blank">
         <img src="https://img.shields.io/badge/Live_Demo-FF5FC7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
       </a>
       <br><br>
@@ -217,11 +215,11 @@ const Pranav = {
     </td>
     <td width="30%" valign="top" align="center">
       <br>
-      <a href="https://github.com/PranavThorat1432" target="_blank">
+      <a href="https://github.com/PranavThorat1432/MedRoute-Emergency-Hospital-Finder-Status_404-" target="_blank">
         <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
       </a>
       <br><br>
-      <a href="https://github.com/PranavThorat1432" target="_blank">
+      <a href="https://medroute-liart.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/Live_Demo-FF5FC7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
       </a>
       <br><br>
@@ -258,11 +256,11 @@ const Pranav = {
     </td>
     <td width="30%" valign="top" align="center">
       <br>
-      <a href="https://github.com/PranavThorat1432" target="_blank">
+      <a href="https://github.com/PranavThorat1432/Vybe-Social-Media-Website" target="_blank">
         <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
       </a>
       <br><br>
-      <a href="https://github.com/PranavThorat1432" target="_blank">
+      <a href="https://vybe-social-media-website-ci0c.onrender.com" target="_blank">
         <img src="https://img.shields.io/badge/Live_Demo-FF5FC7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
       </a>
       <br><br>
@@ -299,11 +297,11 @@ const Pranav = {
     </td>
     <td width="30%" valign="top" align="center">
       <br>
-      <a href="https://github.com/PranavThorat1432" target="_blank">
+      <a href="https://github.com/PranavThorat1432/RFID-Ultrasonic-Smart-Parking-System" target="_blank">
         <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
       </a>
       <br><br>
-      <a href="https://github.com/PranavThorat1432" target="_blank">
+      <a href="https://github.com/PranavThorat1432/RFID-Ultrasonic-Smart-Parking-System/tree/main/docs" target="_blank">
         <img src="https://img.shields.io/badge/Circuit_Docs-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Docs">
       </a>
       <br><br>
