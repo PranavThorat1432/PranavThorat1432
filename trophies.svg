@@ -57,7 +57,7 @@
         <text x="16" y="30" font-size="20">💻</text>
         <text x="134" y="28" text-anchor="end" class="rank-letter" fill="#7fe3ff">SSS</text>
         <text x="16" y="104" class="tname">Committer</text>
-        <text x="16" y="122" class="tsub">Commits 4.7k</text>
+        <text x="16" y="122" class="tsub">Commits 5.3k</text>
         <rect x="16" y="134" width="116" height="4" rx="2" fill="#7fe3ff33"/>
         <rect x="16" y="134" width="0" height="4" rx="2" fill="#7fe3ff" class="tbar" style="--bw:116px; animation-delay:0.62s"/>
         <g clip-path="url(#cellClip1)">
@@ -72,7 +72,7 @@
         <text x="16" y="30" font-size="20">♥</text>
         <text x="134" y="28" text-anchor="end" class="rank-letter" fill="#ff9be0">B</text>
         <text x="16" y="104" class="tname">Popular</text>
-        <text x="16" y="122" class="tsub">Followers 4</text>
+        <text x="16" y="122" class="tsub">Followers 5</text>
         <rect x="16" y="134" width="116" height="4" rx="2" fill="#ff9be033"/>
         <rect x="16" y="134" width="0" height="4" rx="2" fill="#ff9be0" class="tbar" style="--bw:116px; animation-delay:0.74s"/>
         <g clip-path="url(#cellClip2)">
@@ -102,7 +102,7 @@
         <text x="16" y="30" font-size="20">📦</text>
         <text x="134" y="28" text-anchor="end" class="rank-letter" fill="#3ddc84">SSS</text>
         <text x="16" y="104" class="tname">Creator</text>
-        <text x="16" y="122" class="tsub">Repos 66</text>
+        <text x="16" y="122" class="tsub">Repos 67</text>
         <rect x="16" y="134" width="116" height="4" rx="2" fill="#3ddc8433"/>
         <rect x="16" y="134" width="0" height="4" rx="2" fill="#3ddc84" class="tbar" style="--bw:116px; animation-delay:0.98s"/>
         <g clip-path="url(#cellClip4)">

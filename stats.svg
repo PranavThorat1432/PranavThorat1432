@@ -25,7 +25,7 @@
   .ring-fill { fill:none; stroke:url(#sring); stroke-width:10; stroke-linecap:round;
     stroke-dasharray:389.6; stroke-dashoffset:389.6;
     animation: ringGrow 1.6s cubic-bezier(.2,.8,.2,1) 0.2s forwards; transform:rotate(-90deg); transform-origin:105px 130px; }
-  @keyframes ringGrow { to { stroke-dashoffset:288.3; } }
+  @keyframes ringGrow { to { stroke-dashoffset:287.5; } }
   .rank-text { font-family:'Segoe UI',Arial,sans-serif; font-size:34px; font-weight:800; fill:#ffffff; opacity:0; animation: fadeIn 0.6s ease 1.4s forwards; }
   .rank-sub { font-family:'Segoe UI',Arial,sans-serif; font-size:11px; fill:#c9b3e8; opacity:0; animation: fadeIn 0.6s ease 1.6s forwards; }
   @keyframes fadeIn { to { opacity:1; } }
@@ -55,7 +55,7 @@
       <g class="row" style="animation-delay:0.45s">
         <text x="0" y="0" class="row-icon">&#9733;</text>
         <text x="20" y="0" class="row-label">Total Commits:</text>
-        <text x="230" y="0" text-anchor="end" class="row-val">4.7k</text>
+        <text x="230" y="0" text-anchor="end" class="row-val">5.3k</text>
         <rect x="0" y="8" width="230" height="5" rx="2.5" class="row-track"/>
         <rect x="0" y="8" width="230.0" height="5" rx="2.5" class="row-fill" style="animation-delay:0.75s"/>
       </g>
@@ -82,7 +82,7 @@
       <g class="row" style="animation-delay:0.90s">
         <text x="0" y="0" class="row-icon">&#9733;</text>
         <text x="20" y="0" class="row-label">Public Repos:</text>
-        <text x="230" y="0" text-anchor="end" class="row-val">66</text>
+        <text x="230" y="0" text-anchor="end" class="row-val">67</text>
         <rect x="0" y="8" width="230" height="5" rx="2.5" class="row-track"/>
         <rect x="0" y="8" width="230.0" height="5" rx="2.5" class="row-fill" style="animation-delay:1.20s"/>
       </g>
