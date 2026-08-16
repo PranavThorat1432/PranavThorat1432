@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
-  <img src="./banner.svg?v=1" alt="Pranav Thorat banner" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
+  <img src="banner.svg" alt="Pranav Thorat banner" width="100%">
 </picture>
 
 </div>

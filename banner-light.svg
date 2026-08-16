@@ -337,37 +337,21 @@
 
   <g transform="translate(52,536)">
 
-<<<<<<< HEAD
       <g transform="translate(0,0)">
         <g class="statbox" style="animation-delay:3.10s">
           <rect width="156" height="60" rx="8" class="stat-box-bg"/>
           <rect x="14" y="10" width="18" height="2.5" fill="#d6440a"/>
           <text x="14" y="38" class="sb-val">8+</text>
           <text x="14" y="52" class="sb-label" letter-spacing="2">REPOS</text>
-=======
-      <g transform="translate(86.2,0)">
-        <g class="statblock" style="animation-delay:3.10s">
-          <text x="0" y="-30" text-anchor="middle" font-size="20">📦</text>
-          <text x="0" y="4" text-anchor="middle" class="sb-val">67</text>
-          <text x="0" y="26" text-anchor="middle" class="sb-label">Repos</text>
->>>>>>> 862abb6fa936b4440caa012ca96e33560548d1f2
         </g>
       </g>
 
-<<<<<<< HEAD
       <g transform="translate(170,0)">
         <g class="statbox" style="animation-delay:3.20s">
           <rect width="156" height="60" rx="8" class="stat-box-bg"/>
           <rect x="14" y="10" width="18" height="2.5" fill="#d6440a"/>
           <text x="14" y="38" class="sb-val">500+</text>
           <text x="14" y="52" class="sb-label" letter-spacing="2">COMMITS</text>
-=======
-      <g transform="translate(258.8,0)">
-        <g class="statblock" style="animation-delay:3.22s">
-          <text x="0" y="-30" text-anchor="middle" font-size="20">💻</text>
-          <text x="0" y="4" text-anchor="middle" class="sb-val">5.3k</text>
-          <text x="0" y="26" text-anchor="middle" class="sb-label">Commits</text>
->>>>>>> 862abb6fa936b4440caa012ca96e33560548d1f2
         </g>
       </g>
 
@@ -380,20 +364,12 @@
         </g>
       </g>
 
-<<<<<<< HEAD
       <g transform="translate(510,0)">
         <g class="statbox" style="animation-delay:3.40s">
           <rect width="156" height="60" rx="8" class="stat-box-bg"/>
           <rect x="14" y="10" width="18" height="2.5" fill="#d6440a"/>
           <text x="14" y="38" class="sb-val">25+</text>
           <text x="14" y="52" class="sb-label" letter-spacing="2">FOLLOWERS</text>
-=======
-      <g transform="translate(603.8,0)">
-        <g class="statblock" style="animation-delay:3.46s">
-          <text x="0" y="-30" text-anchor="middle" font-size="20">👥</text>
-          <text x="0" y="4" text-anchor="middle" class="sb-val">5</text>
-          <text x="0" y="26" text-anchor="middle" class="sb-label">Followers</text>
->>>>>>> 862abb6fa936b4440caa012ca96e33560548d1f2
         </g>
       </g>
     <rect x="0" y="94" width="640" height="1" fill="#e0d5c2"/>
