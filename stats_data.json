@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-22T03:35:11.132014+00:00",
+  "generated_at": "2026-08-23T03:42:53.000651+00:00",
   "username": "PranavThorat1432",
   "name": "Pranav Thorat",
-  "repos": 67,
+  "repos": 68,
   "stars": 1,
   "followers": 5,
-  "commits": 5326,
-  "contributions": 5400,
+  "commits": 5328,
+  "contributions": 5402,
   "prs": 0,
   "issues": 0,
   "languages": [
@@ -26,16 +26,16 @@
       "color": "#563d7c"
     },
     {
+      "name": "Python",
+      "pct": 0.8,
+      "color": "#3572A5"
+    },
+    {
       "name": "C++",
       "pct": 0.8,
       "color": "#f34b7d"
-    },
-    {
-      "name": "Python",
-      "pct": 0.7,
-      "color": "#3572A5"
     }
   ],
   "rank_letter": "B+",
-  "rank_pct": 0.262
+  "rank_pct": 0.263
 }
