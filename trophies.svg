@@ -102,7 +102,7 @@
         <text x="16" y="30" font-size="20">📦</text>
         <text x="134" y="28" text-anchor="end" class="rank-letter" fill="#3ddc84">SSS</text>
         <text x="16" y="104" class="tname">Creator</text>
-        <text x="16" y="122" class="tsub">Repos 68</text>
+        <text x="16" y="122" class="tsub">Repos 67</text>
         <rect x="16" y="134" width="116" height="4" rx="2" fill="#3ddc8433"/>
         <rect x="16" y="134" width="0" height="4" rx="2" fill="#3ddc84" class="tbar" style="--bw:116px; animation-delay:0.98s"/>
         <g clip-path="url(#cellClip4)">
