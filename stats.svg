@@ -55,7 +55,7 @@
       <g class="row" style="animation-delay:0.45s">
         <text x="0" y="0" class="row-icon">&#9733;</text>
         <text x="20" y="0" class="row-label">Total Commits:</text>
-        <text x="230" y="0" text-anchor="end" class="row-val">5.3k</text>
+        <text x="230" y="0" text-anchor="end" class="row-val">5.4k</text>
         <rect x="0" y="8" width="230" height="5" rx="2.5" class="row-track"/>
         <rect x="0" y="8" width="230.0" height="5" rx="2.5" class="row-fill" style="animation-delay:0.75s"/>
       </g>
