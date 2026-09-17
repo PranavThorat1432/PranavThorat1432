@@ -359,7 +359,7 @@
         <g class="statbox" style="animation-delay:3.30s">
           <rect width="156" height="60" rx="8" class="stat-box-bg"/>
           <rect x="14" y="10" width="18" height="2.5" fill="#ff4d00"/>
-          <text x="14" y="38" class="sb-val">2</text>
+          <text x="14" y="38" class="sb-val">1</text>
           <text x="14" y="52" class="sb-label" letter-spacing="2">STARS</text>
         </g>
       </g>

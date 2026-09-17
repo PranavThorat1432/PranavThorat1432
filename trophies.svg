@@ -42,7 +42,7 @@
         <text x="16" y="30" font-size="20">⭐</text>
         <text x="134" y="28" text-anchor="end" class="rank-letter" fill="#ffd479">B</text>
         <text x="16" y="104" class="tname">Stargazer</text>
-        <text x="16" y="122" class="tsub">Stars 2</text>
+        <text x="16" y="122" class="tsub">Stars 1</text>
         <rect x="16" y="134" width="116" height="4" rx="2" fill="#ffd47933"/>
         <rect x="16" y="134" width="0" height="4" rx="2" fill="#ffd479" class="tbar" style="--bw:116px; animation-delay:0.50s"/>
         <g clip-path="url(#cellClip0)">
