@@ -23,26 +23,26 @@
   <g transform="translate(24,56)">
     <rect width="372" height="14" rx="7" class="bar-track"/>
     <g clip-path="url(#barClip)">
-    <rect x="0.0" y="0" width="0" height="14" fill="#f1e05a" class="seg" style="--sw:279.7px; animation-delay:0.15s"/>
-    <rect x="279.7" y="0" width="0" height="14" fill="#e34c26" class="seg" style="--sw:35.7px; animation-delay:0.30s"/>
-    <rect x="315.5" y="0" width="0" height="14" fill="#563d7c" class="seg" style="--sw:22.3px; animation-delay:0.45s"/>
-    <rect x="337.8" y="0" width="0" height="14" fill="#3178c6" class="seg" style="--sw:18.2px; animation-delay:0.60s"/>
-    <rect x="356.0" y="0" width="0" height="14" fill="#3572A5" class="seg" style="--sw:13.4px; animation-delay:0.75s"/>
-    <rect x="369.4" y="0" width="0" height="14" fill="#f34b7d" class="seg" style="--sw:2.6px; animation-delay:0.90s"/></g>
+    <rect x="0.0" y="0" width="0" height="14" fill="#f1e05a" class="seg" style="--sw:280.5px; animation-delay:0.15s"/>
+    <rect x="280.5" y="0" width="0" height="14" fill="#e34c26" class="seg" style="--sw:35.3px; animation-delay:0.30s"/>
+    <rect x="315.8" y="0" width="0" height="14" fill="#563d7c" class="seg" style="--sw:22.3px; animation-delay:0.45s"/>
+    <rect x="338.1" y="0" width="0" height="14" fill="#3178c6" class="seg" style="--sw:17.9px; animation-delay:0.60s"/>
+    <rect x="356.0" y="0" width="0" height="14" fill="#3572A5" class="seg" style="--sw:13.0px; animation-delay:0.75s"/>
+    <rect x="369.0" y="0" width="0" height="14" fill="#f34b7d" class="seg" style="--sw:2.6px; animation-delay:0.90s"/></g>
   </g>
   <g transform="translate(24,100)">
     <g transform="translate(0,0)">
       <g class="lg-row" style="animation-delay:0.60s">
         <circle cx="6" cy="0" r="5" fill="#f1e05a"/>
         <text x="20" y="4" class="lname">JavaScript</text>
-        <text x="372" y="4" text-anchor="end" class="lpct">75.2%</text>
+        <text x="372" y="4" text-anchor="end" class="lpct">75.4%</text>
       </g>
     </g>
     <g transform="translate(0,32)">
       <g class="lg-row" style="animation-delay:0.75s">
         <circle cx="6" cy="0" r="5" fill="#e34c26"/>
         <text x="20" y="4" class="lname">HTML</text>
-        <text x="372" y="4" text-anchor="end" class="lpct">9.6%</text>
+        <text x="372" y="4" text-anchor="end" class="lpct">9.5%</text>
       </g>
     </g>
     <g transform="translate(0,64)">
@@ -56,14 +56,14 @@
       <g class="lg-row" style="animation-delay:1.05s">
         <circle cx="6" cy="0" r="5" fill="#3178c6"/>
         <text x="20" y="4" class="lname">TypeScript</text>
-        <text x="372" y="4" text-anchor="end" class="lpct">4.9%</text>
+        <text x="372" y="4" text-anchor="end" class="lpct">4.8%</text>
       </g>
     </g>
     <g transform="translate(0,128)">
       <g class="lg-row" style="animation-delay:1.20s">
         <circle cx="6" cy="0" r="5" fill="#3572A5"/>
         <text x="20" y="4" class="lname">Python</text>
-        <text x="372" y="4" text-anchor="end" class="lpct">3.6%</text>
+        <text x="372" y="4" text-anchor="end" class="lpct">3.5%</text>
       </g>
     </g>
     <g transform="translate(0,160)">
