@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-11-06T10:10:47.631778+00:00",
+  "generated_at": "2026-11-07T09:27:27.081793+00:00",
   "username": "PranavThorat1432",
   "name": "Pranav Thorat",
   "repos": 71,
   "stars": 1,
   "followers": 5,
-  "commits": 5575,
-  "contributions": 5654,
+  "commits": 5582,
+  "contributions": 5661,
   "prs": 0,
   "issues": 0,
   "languages": [
     {
       "name": "JavaScript",
-      "pct": 79.8,
+      "pct": 80.3,
       "color": "#f1e05a"
     },
     {
       "name": "HTML",
-      "pct": 7.8,
+      "pct": 7.6,
       "color": "#e34c26"
     },
     {
       "name": "CSS",
-      "pct": 4.9,
+      "pct": 4.8,
       "color": "#563d7c"
     },
     {
       "name": "TypeScript",
-      "pct": 4.0,
+      "pct": 3.9,
       "color": "#3178c6"
     },
     {
       "name": "Python",
-      "pct": 2.9,
+      "pct": 2.8,
       "color": "#3572A5"
     },
     {
